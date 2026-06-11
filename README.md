@@ -22,3 +22,8 @@
 
 
 ![Демонстрация работы](lab_5/lab5_converted.gif)
+
+## lab 6
+
+
+![Демонстрация работы](lab_6/lab6_converted.gif)
