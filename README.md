@@ -17,3 +17,8 @@
 
 
 ![Демонстрация работы](lab_4/lab4_converted.gif)
+
+## lab 5
+
+
+![Демонстрация работы](lab_5/lab5_converted.gif)
